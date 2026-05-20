@@ -41,3 +41,7 @@ Organizations require financial insights to monitor profitability, identify cost
 
 ## Project Outcome
 Provided data-driven financial insights through dashboards and forecasting models to support business decision-making and performance analysis.
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-overview.png)
