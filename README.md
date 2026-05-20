@@ -44,4 +44,4 @@ Provided data-driven financial insights through dashboards and forecasting model
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-overview.png)
+![Dashboard Preview](financial-dashboard.png)
